@@ -3,4 +3,45 @@
 }
 #redtext {
 	color: red;
+	text-align: center;
 }
+#pixels {
+	margin-left: 50px;
+	height: 100px;
+		width: 100px;
+}
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+#pixels {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+div {
+    clear: left;
+}
+.clearfix {
+    overflow: auto;
+}
+#pixels {
+    border-radius: 15px 50px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+div {
+    float: right;
+    width: 120px;
+    margin: 0 0 15px 20px;
+    padding: 15px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
